@@ -1,4 +1,4 @@
-from tkinter import *
+from tkinter import Tk, Entry, Button, END, W, E
 import parser
 
 root = Tk()
